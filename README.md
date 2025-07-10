@@ -25,7 +25,7 @@ Open-source technical documentation for a high-efficiency residential HVAC syste
    - Input: Yazaki EcoCute CHP-4ST unit.  
    - Output: 1.8 COP at -10°C (JRAIA 2024).  
 
-## Build Steps  
+
 
 
 ## Regulatory Status  
